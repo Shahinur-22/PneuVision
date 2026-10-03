@@ -1,0 +1,25 @@
+# Dataset
+data/
+dataset/
+chest_xray/
+
+# Model weights
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Kaggle credentials
+kaggle.json
+
+# Jupyter/Colab temporary files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
