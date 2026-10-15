@@ -1,2 +1,2 @@
-Model,Threshold,Accuracy,Precision,Recall,Specificity,F1_Score,ROC_AUC
-DenseNet169,0.7,89.58,86.35,98.97,73.93,92.23,0.966
+Model,Threshold,Threshold_Basis,Accuracy_Percent,Precision_Percent,Recall_Percent,Specificity_Percent,F1_Score_Percent,Balanced_Accuracy_Percent,ROC_AUC,TN,FP,FN,TP
+DenseNet169,0.5,Standard default classification threshold,88.14,84.5,99.23,69.66,91.27,84.44,0.966,163,71,3,387

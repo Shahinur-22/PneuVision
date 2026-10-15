@@ -24,7 +24,7 @@ MODEL_PATH = PROJECT_ROOT / "models" / "densenet169_pneumonia.pth"
 DEVICE = torch.device("cpu")
 
 # Current project threshold
-FINAL_THRESHOLD = 0.70
+FINAL_THRESHOLD = 0.50
 
 
 # --------------------------------------------------

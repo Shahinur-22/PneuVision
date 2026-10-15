@@ -23,8 +23,3 @@ kaggle.json
 # System files
 .DS_Store
 Thumbs.db
-venv/
-*.pth
-*.pt
-sample_images/
-__pycache__/

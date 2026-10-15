@@ -1,0 +1,4 @@
+Threshold,Selection_Method,Test_Accuracy_Percent,Test_Precision_Percent,Test_Recall_Percent,Test_Specificity_Percent,Test_F1_Percent,Test_ROC_AUC,Use_In_Final_Report
+0.5,Standard default threshold,88.14,84.5,99.23,69.66,91.27,0.966,Main benchmark
+0.146537,Selected on validation set using Youden's J,85.1,80.87,99.74,60.68,89.32,0.966,Threshold analysis
+0.7,Exploratory threshold selected after inspecting test results,89.58,86.35,98.97,73.93,92.23,0.966,Do not present as final unbiased result
